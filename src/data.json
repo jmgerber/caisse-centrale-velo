@@ -73,7 +73,7 @@
     "id": 13,
     "name": "Eau",
     "categorie": "boisson",
-    "price": 2,
+    "price": 1.5,
     "image": "icone_eau.png"
   },
   {
@@ -87,14 +87,14 @@
     "id": 15,
     "name": "Verre de vin",
     "categorie": "boisson",
-    "price": 2.50,
+    "price": 3,
     "image": "icone_verre_vin.png"
   },
   {
     "id": 16,
     "name": "Bouteille de vin",
     "categorie": "boisson",
-    "price": 13,
+    "price": 10,
     "image": "icone_bouteille_vin.png"
   }
 ]
