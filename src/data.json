@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Saucisse / Merguez",
+    "categorie": "salés",
+    "price": 3,
+    "image": "icone_saucisse.png"
+  },
+  {
+    "id": 2,
+    "name": "Repas",
+    "categorie": "salés",
+    "price": 12,
+    "image": "icone_jambon.png"
+  },
+  {
+    "id": 3,
+    "name": "Repas végétarien",
+    "categorie": "salés",
+    "price": 9,
+    "image": "icone_salade.png"
+  },
+  {
+    "id": 6,
+    "name": "Gâteau",
+    "categorie": "sucrés",
+    "price": 2,
+    "image": "icone_gateau.png"
+  },
+  {
+    "id": 7,
+    "name": "Crêpe",
+    "categorie": "sucrés",
+    "price": 2.5,
+    "image": "icone_crepe.png"
+  },
+  {
+    "id": 8,
+    "name": "Café",
+    "categorie": "sucrés",
+    "price": 1,
+    "image": "icone_cafe.png"
+  },
+  {
+    "id": 9,
+    "name": "Pression 25cl",
+    "categorie": "boisson",
+    "price": 2,
+    "image": "icone_pression.png"
+  },
+  {
+    "id": 10,
+    "name": "Pression 50cl",
+    "categorie": "boisson",
+    "price": 4,
+    "image": "icone_pression.png"
+  },
+  {
+    "id": 11,
+    "name": "Pression Rosée 25cl",
+    "categorie": "boisson",
+    "price": 3,
+    "image": "icone_pression_rosee.png"
+  },
+  {
+    "id": 12,
+    "name": "Pression Rosée 50cl",
+    "categorie": "boisson",
+    "price": 4.50,
+    "image": "icone_pression_rosee.png"
+  },
+  {
+    "id": 13,
+    "name": "Eau",
+    "categorie": "boisson",
+    "price": 2,
+    "image": "icone_eau.png"
+  },
+  {
+    "id": 14,
+    "name": "Boisson en canette",
+    "categorie": "boisson",
+    "price": 2,
+    "image": "icone_boisson_soft.png"
+  },
+  {
+    "id": 15,
+    "name": "Verre de vin",
+    "categorie": "boisson",
+    "price": 2.50,
+    "image": "icone_verre_vin.png"
+  },
+  {
+    "id": 16,
+    "name": "Bouteille de vin",
+    "categorie": "boisson",
+    "price": 13,
+    "image": "icone_bouteille_vin.png"
+  }
+]
